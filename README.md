@@ -1,0 +1,2 @@
+# WGU-Software-II--Advanced-Java-Concepts---C195TASK-1-JAVA-APPLICATION-DEVELOPMENT
+You are working for a software company that has been contracted to develop a GUI-based scheduling desktop application. The contract is with a global consulting organization that conducts business in multiple languages and has main offices in Arizona,New York, Canada; and England. Consulting organization has provided a MySQL database.
